@@ -2,7 +2,7 @@
 
 A calm, minimal to-do list built with plain HTML, CSS, and vanilla JavaScript. No frameworks, no build step, no dependencies — just open it and start tracking what matters today.
 
-**Live demo:** [add your GitHub Pages link here once deployed]
+**Live demo:** [abhinavog.github.io/TODO-List](https://abhinavog.github.io/TODO-List/)
 
 ![Dark themed UI with cyan accent](screenshot.png)
 
